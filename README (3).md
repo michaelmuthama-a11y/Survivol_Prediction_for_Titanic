@@ -90,6 +90,6 @@ jupyter notebook
 - Ensemble/stacking of top-performing models
 - Deeper exploration of `XGBClassifier`, which was imported but not yet included in the model comparison
 
-## Author
+## Publisher
 
-Kevin Ng'ang'a
+**Michael Mbugua**
